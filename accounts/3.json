@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "faunacoder",
+  "private_key_id": "ca7589e0bd97a3aa474a09cf52e4b6b75391060f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDbztd11/wSPIjV\n1ZyXOa47wIQhpf2NGTsIsV6wo1YG0Gvh67Q4eKEkI4WcrEo047cEoyXc5hAMRzE1\nbQUNot2lqlPrijuBSm2DC1HV3q1eVqvEdMUE3aClW1vUALSckBobQwmmWbLvaGsH\n6Hb7FK3VXUR5B0+wiZkTwLCwVYlMoXaBGrZL3RC3jQol9J4CIMbPbQFLHmerYxy0\n3weJym2TCV23gIm/nxxdn4xarM9557p7gSLl+jktaZVKh9tfu3it96d+vkEA+Gc0\n0SFpBOBBWnbLV9pMoA4/85OArHh95m9fl1EAv35v2H4OrcOLuUYDoZBuohNdUCdH\nOAqzc5bRAgMBAAECggEAANZ98SK9sOzaxWxlFnk7gBoussFjCRk3FbRV4ODdgoUD\nvUKojyTMEfMB9s/8EC2sSFvuGHSGzAIvNoW77MJxu3h9zYZ7TbXMuzC1SxY4RVVZ\nniQHDnrBCpJRpDosthJRTChuMmxx+3pDmq4M2o4Ij9k1OiwgRlMu8oGj9scbsO9k\nkRNxVjlAq1vjw5vqJPjEq/HKieCWIapDT9tNFpmPJLsG5nKGqZvihfy1xi8rVLsf\nbX4jdBfV3ovtrS6WFCGD0WR1Sq6yRi10oOB5gI9fbQw9ALgIWSEBlSvO8kpQRBiD\nDdrIfhAkt8+ROk34AHegpXfK3UfnpxzcaoVW3ls0YQKBgQDvftfJqv5o1dUN36dK\nOyTz7uoFNaaq5BWg3Dks5t4cM2zMcXri7sEH5Iw7KjuEK8cRCicnQwEC7nR5SA8l\nSuG9+jBRynng6I0VZcTepjMeuISH5pSG8jtqybKt1oLy/y0ZUSMQRkb/cDy6Soz5\nOLPX8mgw8/0eFtf9yiE71CRSMQKBgQDq9Kxv0gfyxIQsLw/GBv49G1iJxxKpHTw2\n30HNrA8aUMUanmuA46YolkxfUvVYeSa2Qxri/zoRJ6i6SY1CgiYQG/VCuuBQFZ80\nhLXrfffANPThbGFkOW32/bLYoDl5zZo/U/wgmxN14vFbf8eT4oxkCsEBozsnmVVa\nvArxxSrGoQKBgAi5Evz6aGfDGg52Te6LNu5XjliAOsDQq+T/AGodQou+Z8EOhQ5M\n6eTysxTYlfBbc9WwC/sHGrtTmhRsxnhyQMSdnzLrcAL8FV9pJIGDhishR1p30IMV\nwYpDLGnefUiCeM8KQH+wP5fAK8YRPw84vHwqDRdzW43EATvyJ8G5GVWRAoGAaTRP\nde5ksrZ9vE8CUBhXhMMW3PJvj5vQl31WOKK/THg4GZgv6NGGWAwcfF5oD0qII/pe\nMqA3vvC0I13Fy679Hh92rX+B6zoTRG/cCWspIT5VHA7sePUiIQMuLsNnmPuQAqU3\nct4dU57flanckoJRfIY4L+SIG04UIwGqIOG5KqECgYAj0oRaL7fJy3cHSY5JadTt\n8tdlbdtwm5MBUTgIsH9t9SkTpVjowbr3z4N+r/raYPtgXC2BXUMytVmVhOPfDMcX\nA+teJgMsqke7RUh4Z0qtx9214CTji+qM0+UfAK459EttGUtnfnvq+wjjXEVmmUXu\n/ZAlUBnhyluxrv9kl3B0vw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-i6agijgohmcp7hiupddl8q35m5@faunacoder.iam.gserviceaccount.com",
+  "client_id": "113932521056564153104",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-i6agijgohmcp7hiupddl8q35m5%40faunacoder.iam.gserviceaccount.com"
+}
